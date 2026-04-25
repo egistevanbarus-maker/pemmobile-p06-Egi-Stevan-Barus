@@ -47,10 +47,10 @@ Aplikasi ini dibuat untuk memenuhi tugas Praktikum **Pemrograman Mobile Pertemua
 ## Screenshot
 
 ### Tampilan Utama 
-(https://freeimage.host/i/B6VcA7e)
+(https://fluttering-blush-an5dkvlob0.edgeone.app/WhatsApp%20Image%202026-04-25%20at%2011.38.29.jpeg))
 
-### Tampilan Search — saat ada hasil
-(https://freeimage.host/i/B6Vl4cP)
+### Tampilan Produk Baju
+(https://maximum-moccasin-oenrztnklb.edgeone.app/WhatsApp%20Image%202026-04-25%20at%2011.38.31.jpeg)
 
-### Tampilan Empty State — saat tidak ada hasil
-(https://freeimage.host/i/B6Vlc9n)
+### Tampilan Produk Sepatu
+(https://qualified-blush-qm7fmdchtd.edgeone.app/WhatsApp%20Image%202026-04-25%20at%2011.38.31%20(1).jpeg)
