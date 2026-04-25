@@ -47,10 +47,10 @@ Aplikasi ini dibuat untuk memenuhi tugas Praktikum **Pemrograman Mobile Pertemua
 ## Screenshot
 
 ### Tampilan Utama 
-(WhatsApp Image 2026-04-25 at 11.38.29.jpeg)
+(https://freeimage.host/i/B6VcA7e)
 
 ### Tampilan Search — saat ada hasil
-(WhatsApp Image 2026-04-25 at 11.56.34.jpeg)
+(https://freeimage.host/i/B6Vl4cP)
 
 ### Tampilan Empty State — saat tidak ada hasil
-(WhatsApp Image 2026-04-25 at 11.56.35.jpeg)
+(https://freeimage.host/i/B6Vlc9n)
